@@ -25,4 +25,12 @@ public class Yeaterday implements Serializable {
     private String fl;
 
     private String type;
+    
+    private String sunrise;
+    
+    private String sunset;
+
+    private String aqi;
+    
+    private String notice;
 }

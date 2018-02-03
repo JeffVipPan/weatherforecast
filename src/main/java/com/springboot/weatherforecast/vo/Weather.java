@@ -24,9 +24,12 @@ public class Weather implements Serializable {
 
     private String wendu;
 
-    private Yeaterday yeaterday;
-
-    private List<Forecast> forecasts;
+    private String shidu;
+    private String pm25;
+    private String pm10;
+    private String quality;
+    private Yeaterday yesterday;
+    private List<Forecast> forecast;
 
 
 }

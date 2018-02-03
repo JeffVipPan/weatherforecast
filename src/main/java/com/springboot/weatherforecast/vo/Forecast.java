@@ -28,6 +28,18 @@ public class Forecast implements Serializable {
 
     private String type;
 
+    private String sunrise;
+
+    private String sunset;
+
+    private String aqi;
+
+    private String fx;
+
+    private String fl;
+
+    private String notice;
+
 
 
 }
